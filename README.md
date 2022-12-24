@@ -22,5 +22,12 @@
 </ol>
 <h1><i>2-Architecture de l'activité pratique :</i><h1>
 <img src="https://user-images.githubusercontent.com/48455549/206859150-63e5c806-86a2-4937-8791-9a7ce2464316.PNG">
-<h1><i>3-Simulation :</i><h1>
-<img src="https://user-images.githubusercontent.com/48455549/206859150-63e5c806-86a2-4937-8791-9a7ce2464316.PNG">
+<h1><i>3-Manifestations :</i><h1>
+<p>Le projet est une gestion complète, ce qui signifie que le projet est un outil de gestion de produit, de client et de facturation.</p>
+<h2>La gestion des produits </h2>
+<table>
+<tr>
+<td>L'ajout d'un produit</td>
+<td><img src="./Captures/AddProductTest.jpg" alt="Ajouter un produit" title="Ajouter un produit"></td>
+</tr>
+</table>
